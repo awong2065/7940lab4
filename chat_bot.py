@@ -8,6 +8,7 @@ import redis
 
 global redis1
 
+#random comments
 
 def main():
     # Load your token and create an Updater for your Bot
